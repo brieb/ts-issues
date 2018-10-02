@@ -1,0 +1,15 @@
+{
+  "name": "ts-issues",
+  "version": "1.0.0",
+  "scripts": {
+    "tsc": "tsc -p ."
+  },
+  "devDependencies": {
+    "@types/prop-types": "^15.5.6",
+    "@types/react": "^16.4.14",
+    "@types/react-redux": "^6.0.9",
+    "@types/redux": "^3.6.0",
+    "redux-thunk": "^2.3.0",
+    "typescript": "^3.1.1"
+  }
+}
